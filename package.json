@@ -1,0 +1,19 @@
+{
+  "name": "ci-test-git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BoxPistols/CI-Test-Git.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BoxPistols/CI-Test-Git/issues"
+  },
+  "homepage": "https://github.com/BoxPistols/CI-Test-Git#readme"
+}
